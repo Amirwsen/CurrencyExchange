@@ -1,0 +1,15 @@
+D:\CS\CurrencyExchange\Application\bin\Debug\net8.0\Application.deps.json
+D:\CS\CurrencyExchange\Application\bin\Debug\net8.0\Application.dll
+D:\CS\CurrencyExchange\Application\bin\Debug\net8.0\Application.pdb
+D:\CS\CurrencyExchange\Application\bin\Debug\net8.0\Core.dll
+D:\CS\CurrencyExchange\Application\bin\Debug\net8.0\Core.pdb
+D:\CS\CurrencyExchange\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\CS\CurrencyExchange\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\CurrencyExchange\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\CS\CurrencyExchange\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\CS\CurrencyExchange\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\CS\CurrencyExchange\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\CS\CurrencyExchange\Application\obj\Debug\net8.0\Application.dll
+D:\CS\CurrencyExchange\Application\obj\Debug\net8.0\refint\Application.dll
+D:\CS\CurrencyExchange\Application\obj\Debug\net8.0\Application.pdb
+D:\CS\CurrencyExchange\Application\obj\Debug\net8.0\ref\Application.dll
